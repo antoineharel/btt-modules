@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.19.0",
+    "colors": "^1.4.0",
+    "moment": "^2.24.0",
+    "run-applescript": "^3.2.0",
+    "xml-js": "^1.6.11",
+    "xml-to-json-stream": "^1.1.0"
+  }
+}
